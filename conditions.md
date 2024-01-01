@@ -14,7 +14,7 @@ But lets learn what are the posibilities.
 - validators can also be negative: !=, !<, !>
 
 Here are some examples, i will let you see the patterns first:
-1.
+- 1.
 ```
 if user_name = "Alice" then
   console("Welcome, Alice!")
@@ -24,7 +24,7 @@ Output:
 ```
 Welcome, Alice!
 ```
-2.
+- 2.
 ```
 if user_age > 18 then
   console("You're an adult!")
@@ -38,7 +38,7 @@ Output:
 ```
 You're a teenager!
 ```
-3.
+- 3.
 ```
 if is_raining != true then
   console("It's not raining, enjoy your day!")
