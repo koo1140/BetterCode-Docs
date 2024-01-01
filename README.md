@@ -8,8 +8,8 @@
 - Starter Logic:
 [click here to open docs](https://github.com/koo1140/BetterCode-Docs/blob/main/logic.md)
 
-## 2. Basic Syntax
-
+## 2. Syntax
+- Basic Syntax
 [click here to open docs](https://github.com/koo1140/BetterCode-Docs/blob/main/basicsyntax.md)
 
 ... to be added
