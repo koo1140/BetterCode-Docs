@@ -5,7 +5,7 @@
 ### Introduction & everything (sorry for bad english)
 
 ## 1. Logic
-
+- Starter Logic:
 [click here to open docs](https://github.com/koo1140/BetterCode-Docs/blob/main/logic.md)
 
 ## 2. Basic Syntax
