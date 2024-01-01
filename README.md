@@ -9,5 +9,5 @@ official bettercode docs, version 1.1, this is a documentation for [OriginOS](ht
 
 ## 2. Basic Syntax
 
-[click here to open docs](https://github.com/koo1140/BetterCode-Docs/blob/main/README.md)
+[click here to open docs](https://github.com/koo1140/BetterCode-Docs/blob/main/basicsyntax.md)
 
