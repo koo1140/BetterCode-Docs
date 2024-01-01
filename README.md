@@ -14,7 +14,6 @@ official bettercode docs, version 1
             text-align: center;
             margin-top: 50px;
         }
-
         a.button {
             display: inline-block;
             padding: 10px 20px;
