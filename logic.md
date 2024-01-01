@@ -20,7 +20,7 @@ Example:
 ```
 packages( none )
 
-console("hello world % yay %")
+print("hello world % yay %")
 ```
 Output:
 ```
