@@ -1,4 +1,4 @@
-# 2. Basic Syntax
+# Basic Syntax
 
 Here is a quick schema:
 ```
