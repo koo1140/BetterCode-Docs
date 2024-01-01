@@ -1,4 +1,4 @@
-# 1. Logic
+# 1. Starter Logic
 
 Basic code:
 ```
