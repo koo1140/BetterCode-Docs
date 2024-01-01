@@ -14,11 +14,17 @@ But lets learn what are the posibilities.
 - validators can also be negative: !=, !<, !>
 
 Here are some examples, i will let you see the patterns first:
+1.
 ```
 if user_name = "Alice" then
   console("Welcome, Alice!")
 end
 ```
+Output:
+```
+Welcome, Alice!
+```
+2.
 ```
 if user_age > 18 then
   console("You're an adult!")
@@ -28,10 +34,19 @@ else do
   console("You're a teenager!")
 end
 ```
+Output:
+```
+You're a teenager!
+```
+3.
 ```
 if is_raining != true then
   console("It's not raining, enjoy your day!")
 end
+```
+Output:
+```
+It's not raining, enjoy your day!
 ```
 As you probably saw or not.. `user_name`, `user_age` and `is_raining` are variables.
 
