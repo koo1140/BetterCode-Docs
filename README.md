@@ -8,6 +8,8 @@
 ## 1. Logic
 - Starter Logic:
 [click here to open docs](https://github.com/koo1140/BetterCode-Docs/blob/main/logic.md)
+- Variables
+[click here to open docs](https://github.com/koo1140/BetterCode-Docs/blob/main/variables.md)
 
 ## 2. Syntax
 - Basic Syntax
