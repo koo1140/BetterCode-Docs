@@ -49,6 +49,7 @@ Output:
 It's not raining, enjoy your day!
 ```
 As you probably saw or not.. `user_name`, `user_age` and `is_raining` are variables.
+⚠️Please know those outputs are just examples.. if `user_name` isnt `"Alice"` it will not give that output!
 
 # You completed this lesson! Congrats! 🎉
 [back to docs](https://github.com/koo1140/BetterCode-Docs/blob/main/README.md)
