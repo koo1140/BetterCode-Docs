@@ -65,3 +65,17 @@ We print variables wihout quotes, we print text or values with quotes.
 `coins` was initially 0 but we added 1 and 0 + 1 = 1
 You can also substract: `coins -= 1`
 ⚠️If you atempt to use a variable that was not defined your code will give an error!
+You can join text together:
+```
+a = "y"
+b = "e"
+c = a + b
+% a += b will give an error %
+print(c)
+```
+Output:
+```
+ye
+```
+# You completed this lesson! Congrats! 🎉
+[back to docs](https://github.com/koo1140/BetterCode-Docs/blob/main/README.md)
