@@ -11,5 +11,7 @@
 ## 2. Syntax
 - Basic Syntax
 [click here to open docs](https://github.com/koo1140/BetterCode-Docs/blob/main/basicsyntax.md)
+- Conditions
+[click here to open docs](https://github.com/koo1140/BetterCode-Docs/blob/main/conditions.md)
 
 ... to be added
