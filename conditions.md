@@ -33,6 +33,7 @@ if is_raining != true then
   console("It's not raining, enjoy your day!")
 end
 ```
+As you probably saw or not.. `user_name`, `user_age` and `is_raining` are variables.
 
 # You completed this lesson! Congrats! 🎉
 [back to docs](https://github.com/koo1140/BetterCode-Docs/blob/main/README.md)
