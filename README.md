@@ -1,5 +1,5 @@
 # **BetterCode Docs** ✨
-official bettercode docs, version 1.1, this is a documentation for [OriginOS](https://github.com/Mistium/Origin-OS)
+official bettercode docs, version 1.2, this is a documentation for [OriginOS](https://github.com/Mistium/Origin-OS)
 
 ### Introduction & everything (sorry for bad english)
 
@@ -11,3 +11,4 @@ official bettercode docs, version 1.1, this is a documentation for [OriginOS](ht
 
 [click here to open docs](https://github.com/koo1140/BetterCode-Docs/blob/main/basicsyntax.md)
 
+... to be added
