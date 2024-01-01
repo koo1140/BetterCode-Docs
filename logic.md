@@ -28,4 +28,4 @@ hello world
 ```
 
 # You completed this lesson! Congrats!
-<a href="https://github.com/koo1140/BetterCode-Docs/blob/main/logic.md">back to docs</a>
+<a href="https://github.com/koo1140/BetterCode-Docs/blob/main/README.md">back to docs</a>
